@@ -8,3 +8,4 @@ Test
 1. open index.html
 2. create stylesheet.css
 3. Type this xxx
+4. Update readme
